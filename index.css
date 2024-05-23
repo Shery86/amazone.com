@@ -1,0 +1,205 @@
+#body{
+    background-color: rgb(240, 156, 170);
+}
+* {
+    margin: 0;
+}
+
+#first {
+    margin: 0;
+    height: 50px;
+    background-color: rgb(30, 31, 33);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#one {
+    width: 600px;
+    height: 25px;
+    display: flex;
+}
+
+#two {
+    font-size: 10px;
+}
+
+#four {
+    font-size: 15px;
+}
+
+#three {
+    font-size: 10px;
+}
+
+#five {
+    font-size: 15px;
+}
+
+#six {
+    font-size: 10px;
+}
+
+#seven {
+    font-size: 15px;
+}
+
+#eight {
+    font-size: 10px;
+}
+
+#nine {
+    font-size: 15px;
+}
+
+#second {
+    height: 25px;
+    background-color: darkslategray;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+#thirten {
+    margin-left: 30px;
+}
+
+#ten {
+    font-size: 13px;
+}
+
+#tewelve {
+    font-size: 15px;
+}
+
+#forten {
+    font-size: 13px;
+}
+
+#fiften {
+    width: 400px;
+}
+
+#sixten {
+    height: 50px;
+    width: 100px;
+}
+
+#seventen{
+    background-color: rgb(243, 159, 4) ;
+    width: 25px;
+    height: 25px;
+    display: flex;
+align-items: center;
+}
+#cart{
+    font-size: 1.25rem;
+}
+#nineten{
+    background-image: url(Image/amazon1.png);
+    background-size: cover;
+    height: 300px;
+}
+#tewenty{
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+#tewentyone{
+    background-image: url(Image/amazon\ 2.jpg);
+    background-size: cover;
+    height: 300px;
+}
+#tewentytwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#tewentythree{
+    background-image: url(Image/project12.PNG);
+    background-size: cover;
+    height: 300px;
+}
+#tewentyfour{
+    background-image: url(Image/project\ 13.PNG);
+    background-size: cover;
+    height: 300px;
+}
+#tewentyfive{
+    background-image: url(Image/images\ \(2\).jpg);
+    background-size: cover;
+    height: 1800px;
+}
+#tewentysix{
+    height: 50px;
+    color: white;
+    background-color: rgb(28, 28, 69);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+#tewentyseven{
+    background-color: rgb(28, 33, 41);
+    height: 600px;
+}
+#tewentyseven{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+}
+#line1{
+    margin-left: 39px;
+}
+#line2{
+    margin-left: 39px;
+}
+#line3{
+    margin-left: 39px;
+}
+#line4{
+    margin-left: 39px;
+}
+#sixten:hover{
+    border: solid;
+}
+#two:hover{
+    border: solid;
+}
+#three:hover{
+    border: solid;
+}
+#six:hover{
+    border: solid;
+}
+#eight:hover{
+    border: solid;
+}
+#button{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+align-items: center;
+}
+#button1{
+    height: 20px;
+width: 210px;
+background-color: yellow;
+border: 1px;
+border-width: 100%;
+}
+#thirty{
+    background-image: url(Image/Shery.PNG);
+    background-size: cover;
+    height: 300px;
+}
+#ani1:hover{
+    width: 30px;
+    height: 30px;
+}
